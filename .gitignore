@@ -1,0 +1,15 @@
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
